@@ -33,6 +33,7 @@ public class Contorler {
 	void setChange(Command change) {
 		this.change = change;
 	}
+	
 
 	Command getJump() {
 		return jump;
